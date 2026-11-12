@@ -11,4 +11,8 @@ public class Coordinado{
         static void metodoAnder(){
                 System.out.println("Hola, soy Ander");
         }
+        
+	 static void metodoRicardo(){
+   		 System.out.println("Hola, soy Ricardo");
+	}
 }
