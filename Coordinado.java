@@ -4,6 +4,6 @@ public class Coordinado{
         }
 
         static void metodoCarlos(){
-                System.out.println("Hola soy Carlos");
+                System.out.println("Hola, soy Carlos");
         }
 }
