@@ -1,14 +1,12 @@
+/*
+ * Ejercicio de resolución de conflictos Git
+ * Autor: Equipo
+ */
+
 public class Conflicto {
-    public static void main(String[]args){
-        metodoAnder();
-        metodoCarlos();
+
+    public static void main(String[] args) {
+
     }
 
-    static void metodoAnder(){
-        System.out.println("Hola, soy Ander.");        
-    }
-    
-    static void metodoCarlos(){
-        System.out.println("Hola, soy Carlos.");        
-    }
 }
